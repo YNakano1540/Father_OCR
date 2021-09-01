@@ -1,5 +1,6 @@
 TestData
 TestData_AC
 target_dir.txt
+target_ac_dir.txt
 tesseract_url.txt
 test.py
